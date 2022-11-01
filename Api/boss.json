@@ -1,0 +1,18 @@
+{
+	"name": "Api-Crud",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {
+		"github.com/gabrielbaltazar/gbjson": "^1.0.10",
+		"github.com/gabrielbaltazar/gbswagger": "^3.0.4",
+		"github.com/hashload/handle-exception": "^0.1.7",
+		"github.com/hashload/horse": "^3.0.2",
+		"github.com/hashload/horse-cors": "^1.0.5",
+		"github.com/hashload/horse-logger": "^2.0.6",
+		"github.com/hashload/horse-logger-provider-console": "^1.0.5",
+		"github.com/hashload/jhonson": "^1.1.4"
+	}
+}
